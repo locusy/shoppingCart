@@ -1,0 +1,18 @@
+{
+  "name": "vue",
+  "version": "1.0.0",
+  "description": "this is a vue-project of shopping cart",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "angelatian",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.3.3",
+    "vue-resource": "^1.3.3"
+  }
+}
